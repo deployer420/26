@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x658E364cF0251E300b01e2d2be919eDf6a7E9c83",
+  "SCAN_LINK": "https://etherscan.io/address/0x658E364cF0251E300b01e2d2be919eDf6a7E9c83",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "MeiMei Little Sister",
+  "SYMBOL": "MEIMEI",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 33000000000000000,
+  "DISPLAY_COST": 0.033000000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/meimei-little-sister",
+  "SHOW_BACKGROUND": true
+}
